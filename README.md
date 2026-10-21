@@ -7,7 +7,7 @@ Wanted a free and easy way for people to automate their YouTube shorts with the 
 3. Download a long-form, oddly satisfying video from YouTube
 
 # How to use
-1. Insert the do you know fact you want to add into the text output
+1. Insert the "Do you know" + ai-generated fact into the text output
 2. Run the code in the following sequence:
    tts.py -> sub.py -> video.py -> combine.py
 3. Results will be shown as success.mp4
